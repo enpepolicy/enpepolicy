@@ -27,11 +27,25 @@
 ```json
 {
     "skills": [
-        "Vue (2-3) JS framework ecosystem", "Object-Oriented Programming (OOP)", "Data Structures", "Problem Solving",
-        "Typescript-focused development", "JS, HTML y CSS (ES6, PUG, SASS/POSTCSS)", "Websockets handling", "Tailwind CSS",
-        "Web3 ecosystem", "PHP, Node Js (Laravel - Lumen and Express/Nest.js)", "Entity Framework Core", "JSON Web Token (JWT)",
-        "Git (CI/CD) workflow", "Firebase Services (Hosting and Real-Time Database)", "AWS ecosystem", "Clean Code",
-        "Analytics, GTAG, and Facebook Pixel",  "Mysql and MongoDB", "PSD, AI and AE (mid-lev)"
+        "Vue (2-3) JS framework ecosystem",
+        "Object-Oriented Programming (OOP)",
+        "Data Structures",
+        "Problem Solving",
+        "Typescript-focused development",
+        "JS, HTML y CSS (ES6, PUG, SASS/POSTCSS)",
+        "Websockets handling",
+        "Tailwind CSS",
+        "Web3 ecosystem",
+        "PHP, Node Js (Laravel - Lumen and Express/Nest.js)",
+        "Entity Framework Core",
+        "JSON Web Token (JWT)",
+        "Git (CI/CD) workflow",
+        "Firebase Services (Hosting and Real-Time Database)",
+        "AWS ecosystem",
+        "Clean Code",
+        "Analytics, GTAG, and Facebook Pixel", 
+        "Mysql and MongoDB",
+        "PSD, AI and AE (mid-lev)"
     ]
 }
 ```
