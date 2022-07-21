@@ -2,7 +2,7 @@
     <img src="github.png" height="200" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Enrique;Software+Developer;Freelancer;Web3+Builder" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%58a6ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Enrique;Software+Developer;Freelancer;Web3+Builder" />
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
