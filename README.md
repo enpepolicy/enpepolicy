@@ -9,8 +9,6 @@
     <a href="https://www.upwork.com/freelancers/~0161140fda6fc43cb9"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" /></a>
 </div>
 
-<h1 align="center">About</h1>
-
 **I am Enrique a Colombian Full-Stack Web Developer [+3 YOE] located in France looking for new prospects. You will find in me a developer, front-end oriented, who has a global perspective of the technologies involved in the Web ecosystem.**
 
 **I am passionating about learning Front-End technologies, Back-End technologies, DevOps, Web 3, Blockchain, Linux, Virtualization, and Cloud Computing.**
