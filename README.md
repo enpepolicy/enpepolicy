@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="github.png" height="200" />
+    <img src="github.png" height="100" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Enrique;Software+Developer;Freelancer;Web3+Builder" />
