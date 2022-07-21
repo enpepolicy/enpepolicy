@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="GitHub.png" height="200" />
+    <img src="github.png" height="200" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Enrique;Software+Developer;Freelancer;Web3+Builder" />
@@ -28,7 +28,7 @@
 {
     "skills": [
         "Vue (2-3) JS framework ecosystem", "Object-Oriented Programming (OOP)", "Data Structures", "Problem Solving",
-        "Typescript-focused development", "JS, HTML y CSS (ES6, PUG, SASS/POSTCSS), "Websockets handling", "Tailwind CSS",
+        "Typescript-focused development", "JS, HTML y CSS (ES6, PUG, SASS/POSTCSS)", "Websockets handling", "Tailwind CSS",
         "Web3 ecosystem", "PHP, Node Js (Laravel - Lumen and Express/Nest.js)", "Entity Framework Core", "JSON Web Token (JWT)",
         "Git (CI/CD) workflow", "Firebase Services (Hosting and Real-Time Database)", "AWS ecosystem", "Clean Code",
         "Analytics, GTAG, and Facebook Pixel",  "Mysql and MongoDB", "PSD, AI and AE (mid-lev)"
