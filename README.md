@@ -18,7 +18,7 @@
 
 * 💬 **Ask me about**: `Vue.js`.
 * 🤔 **I’m currently open for**: `A new job opportunity`.
-* 👨‍💻 **Hire me for Full Stack Development jobs**: [Link to my Workana Profile]([https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016](https://www.workana.com/freelancer/c80a7f10d19f37c3f0bcad4aa103aa9f)).
+* 👨‍💻 **Hire me for Full Stack Development jobs**: [Link to my Workana Profile](https://www.workana.com/freelancer/c80a7f10d19f37c3f0bcad4aa103aa9f).
 
 
 <h1 align="center">Skills</h1>
